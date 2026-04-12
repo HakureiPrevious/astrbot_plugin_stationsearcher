@@ -1604,12 +1604,594 @@
       "lines": ["9号线"],
       "address": "丰台区万达广场附近"
     },
-        {
+    {
       "id": "station335",
       "name": "科怡路",
       "city": "北京",
       "lines": ["9号线"],
       "address": "丰台区科怡路东侧，设有4出入口，紧邻怡海花园、宝隆湖和北京公交三公司怡海花园西门场站"
-    }
+    },
+	  {
+    "id": "station711",
+    "name": "坚尼地城",
+    "city": "香港",
+    "lines": ["港岛线"]
+  },
+  {
+    "id": "station712",
+    "name": "香港大学",
+    "city": "香港",
+    "lines": ["港岛线"]
+  },
+  {
+    "id": "station713",
+    "name": "西营盘",
+    "city": "香港",
+    "lines": ["港岛线"]
+  },
+  {
+    "id": "station714",
+    "name": "上环",
+    "city": "香港",
+    "lines": ["港岛线"]
+  },
+  {
+    "id": "station715",
+    "name": "中环",
+    "city": "香港",
+    "lines": ["港岛线", "荃湾线"]
+  },
+  {
+    "id": "station716",
+    "name": "金钟",
+    "city": "香港",
+    "lines": ["港岛线", "荃湾线", "东铁线", "南港岛线"]
+  },
+  {
+    "id": "station717",
+    "name": "湾仔",
+    "city": "香港",
+    "lines": ["港岛线"]
+  },
+  {
+    "id": "station718",
+    "name": "铜锣湾",
+    "city": "香港",
+    "lines": ["港岛线"]
+  },
+  {
+    "id": "station719",
+    "name": "天后",
+    "city": "香港",
+    "lines": ["港岛线"]
+  },
+  {
+    "id": "station720",
+    "name": "炮台山",
+    "city": "香港",
+    "lines": ["港岛线"]
+  },
+  {
+    "id": "station721",
+    "name": "北角",
+    "city": "香港",
+    "lines": ["港岛线", "将军澳线"]
+  },
+  {
+    "id": "station722",
+    "name": "鲗鱼涌",
+    "city": "香港",
+    "lines": ["港岛线", "将军澳线"]
+  },
+  {
+    "id": "station723",
+    "name": "太古",
+    "city": "香港",
+    "lines": ["港岛线"]
+  },
+  {
+    "id": "station724",
+    "name": "西湾河",
+    "city": "香港",
+    "lines": ["港岛线"]
+  },
+  {
+    "id": "station725",
+    "name": "筲箕湾",
+    "city": "香港",
+    "lines": ["港岛线"]
+  },
+  {
+    "id": "station726",
+    "name": "杏花邨",
+    "city": "香港",
+    "lines": ["港岛线"]
+  },
+  {
+    "id": "station727",
+    "name": "柴湾",
+    "city": "香港",
+    "lines": ["港岛线"]
+  },
+  {
+    "id": "station728",
+    "name": "黄埔",
+    "city": "香港",
+    "lines": ["观塘线"]
+  },
+  {
+    "id": "station729",
+    "name": "何文田",
+    "city": "香港",
+    "lines": ["观塘线", "屯马线"]
+  },
+  {
+    "id": "station730",
+    "name": "油麻地",
+    "city": "香港",
+    "lines": ["观塘线", "荃湾线"]
+  },
+  {
+    "id": "station731",
+    "name": "旺角",
+    "city": "香港",
+    "lines": ["观塘线", "荃湾线"]
+  },
+  {
+    "id": "station732",
+    "name": "太子",
+    "city": "香港",
+    "lines": ["观塘线", "荃湾线"]
+  },
+  {
+    "id": "station733",
+    "name": "石硖尾",
+    "city": "香港",
+    "lines": ["观塘线"]
+  },
+  {
+    "id": "station734",
+    "name": "九龙塘",
+    "city": "香港",
+    "lines": ["观塘线", "东铁线"]
+  },
+  {
+    "id": "station735",
+    "name": "乐富",
+    "city": "香港",
+    "lines": ["观塘线"]
+  },
+  {
+    "id": "station736",
+    "name": "黄大仙",
+    "city": "香港",
+    "lines": ["观塘线"]
+  },
+  {
+    "id": "station737",
+    "name": "钻石山",
+    "city": "香港",
+    "lines": ["观塘线", "屯马线"]
+  },
+  {
+    "id": "station738",
+    "name": "彩虹",
+    "city": "香港",
+    "lines": ["观塘线"]
+  },
+  {
+    "id": "station739",
+    "name": "九龙湾",
+    "city": "香港",
+    "lines": ["观塘线"]
+  },
+  {
+    "id": "station740",
+    "name": "牛头角",
+    "city": "香港",
+    "lines": ["观塘线"]
+  },
+  {
+    "id": "station741",
+    "name": "观塘",
+    "city": "香港",
+    "lines": ["观塘线"]
+  },
+  {
+    "id": "station742",
+    "name": "蓝田",
+    "city": "香港",
+    "lines": ["观塘线"]
+  },
+  {
+    "id": "station743",
+    "name": "油塘",
+    "city": "香港",
+    "lines": ["观塘线", "将军澳线"]
+  },
+  {
+    "id": "station744",
+    "name": "调景岭",
+    "city": "香港",
+    "lines": ["观塘线", "将军澳线"]
+  },
+  {
+    "id": "station745",
+    "name": "尖沙咀",
+    "city": "香港",
+    "lines": ["荃湾线"]
+  },
+  {
+    "id": "station746",
+    "name": "佐敦",
+    "city": "香港",
+    "lines": ["荃湾线"]
+  },
+  {
+    "id": "station747",
+    "name": "深水埗",
+    "city": "香港",
+    "lines": ["荃湾线"]
+  },
+  {
+    "id": "station748",
+    "name": "长沙湾",
+    "city": "香港",
+    "lines": ["荃湾线"]
+  },
+  {
+    "id": "station749",
+    "name": "荔枝角",
+    "city": "香港",
+    "lines": ["荃湾线"]
+  },
+  {
+    "id": "station750",
+    "name": "美孚",
+    "city": "香港",
+    "lines": ["荃湾线", "屯马线"]
+  },
+  {
+    "id": "station751",
+    "name": "荔景",
+    "city": "香港",
+    "lines": ["荃湾线", "东涌线"]
+  },
+  {
+    "id": "station752",
+    "name": "葵芳",
+    "city": "香港",
+    "lines": ["荃湾线"]
+  },
+  {
+    "id": "station753",
+    "name": "葵兴",
+    "city": "香港",
+    "lines": ["荃湾线"]
+  },
+  {
+    "id": "station754",
+    "name": "大窝口",
+    "city": "香港",
+    "lines": ["荃湾线"]
+  },
+  {
+    "id": "station755",
+    "name": "荃湾",
+    "city": "香港",
+    "lines": ["荃湾线"]
+  },
+  {
+    "id": "station756",
+    "name": "将军澳",
+    "city": "香港",
+    "lines": ["将军澳线"]
+  },
+  {
+    "id": "station757",
+    "name": "康城",
+    "city": "香港",
+    "lines": ["将军澳线"]
+  },
+  {
+    "id": "station758",
+    "name": "坑口",
+    "city": "香港",
+    "lines": ["将军澳线"]
+  },
+  {
+    "id": "station759",
+    "name": "宝琳",
+    "city": "香港",
+    "lines": ["将军澳线"]
+  },
+  {
+    "id": "station760",
+    "name": "香港",
+    "city": "香港",
+    "lines": ["东涌线", "机场快线"]
+  },
+  {
+    "id": "station761",
+    "name": "九龙",
+    "city": "香港",
+    "lines": ["东涌线", "机场快线"]
+  },
+  {
+    "id": "station762",
+    "name": "奥运",
+    "city": "香港",
+    "lines": ["东涌线"]
+  },
+  {
+    "id": "station763",
+    "name": "南昌",
+    "city": "香港",
+    "lines": ["东涌线", "屯马线"]
+  },
+  {
+    "id": "station764",
+    "name": "青衣",
+    "city": "香港",
+    "lines": ["东涌线", "机场快线"]
+  },
+  {
+    "id": "station765",
+    "name": "欣澳",
+    "city": "香港",
+    "lines": ["东涌线", "迪士尼线"]
+  },
+  {
+    "id": "station766",
+    "name": "东涌",
+    "city": "香港",
+    "lines": ["东涌线"]
+  },
+  {
+    "id": "station767",
+    "name": "迪士尼",
+    "city": "香港",
+    "lines": ["迪士尼线"]
+  },
+  {
+    "id": "station768",
+    "name": "会展",
+    "city": "香港",
+    "lines": ["东铁线"]
+  },
+  {
+    "id": "station769",
+    "name": "红磡",
+    "city": "香港",
+    "lines": ["东铁线", "屯马线"]
+  },
+  {
+    "id": "station770",
+    "name": "旺角东",
+    "city": "香港",
+    "lines": ["东铁线"]
+  },
+  {
+    "id": "station771",
+    "name": "大围",
+    "city": "香港",
+    "lines": ["东铁线", "屯马线"]
+  },
+  {
+    "id": "station772",
+    "name": "沙田",
+    "city": "香港",
+    "lines": ["东铁线"]
+  },
+  {
+    "id": "station773",
+    "name": "火炭",
+    "city": "香港",
+    "lines": ["东铁线"]
+  },
+  {
+    "id": "station774",
+    "name": "大学",
+    "city": "香港",
+    "lines": ["东铁线"]
+  },
+  {
+    "id": "station775",
+    "name": "大埔墟",
+    "city": "香港",
+    "lines": ["东铁线"]
+  },
+  {
+    "id": "station776",
+    "name": "太和",
+    "city": "香港",
+    "lines": ["东铁线"]
+  },
+  {
+    "id": "station777",
+    "name": "粉岭",
+    "city": "香港",
+    "lines": ["东铁线"]
+  },
+  {
+    "id": "station778",
+    "name": "上水",
+    "city": "香港",
+    "lines": ["东铁线"]
+  },
+  {
+    "id": "station779",
+    "name": "落马洲",
+    "city": "香港",
+    "lines": ["东铁线"]
+  },
+  {
+    "id": "station780",
+    "name": "罗湖",
+    "city": "香港",
+    "lines": ["东铁线"]
+  },
+  {
+    "id": "station781",
+    "name": "乌溪沙",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station782",
+    "name": "马鞍山",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station783",
+    "name": "恒安",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station784",
+    "name": "大水坑",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station785",
+    "name": "石门",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station786",
+    "name": "第一城",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station787",
+    "name": "沙田围",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station788",
+    "name": "车公庙",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station789",
+    "name": "显径",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station790",
+    "name": "启德",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station791",
+    "name": "宋皇台",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station792",
+    "name": "土瓜湾",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station793",
+    "name": "尖东",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station794",
+    "name": "柯士甸",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station795",
+    "name": "荃湾西",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station796",
+    "name": "锦上路",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station797",
+    "name": "元朗",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station798",
+    "name": "朗屏",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station799",
+    "name": "天水围",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station800",
+    "name": "兆康",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station801",
+    "name": "屯门",
+    "city": "香港",
+    "lines": ["屯马线"]
+  },
+  {
+    "id": "station802",
+    "name": "机场",
+    "city": "香港",
+    "lines": ["机场快线"]
+  },
+  {
+    "id": "station803",
+    "name": "博览馆",
+    "city": "香港",
+    "lines": ["机场快线"]
+  },
+  {
+    "id": "station804",
+    "name": "海洋公园",
+    "city": "香港",
+    "lines": ["南港岛线"]
+  },
+  {
+    "id": "station805",
+    "name": "黄竹坑",
+    "city": "香港",
+    "lines": ["南港岛线"]
+  },
+  {
+    "id": "station806",
+    "name": "利东",
+    "city": "香港",
+    "lines": ["南港岛线"]
+  },
+  {
+    "id": "station807",
+    "name": "海怡半岛",
+    "city": "香港",
+    "lines": ["南港岛线"]
+  }
   ]
 }

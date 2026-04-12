@@ -79,7 +79,6 @@ class StationSearcherPlugin(Star):
             reply += f"{station['name']}\n"
             reply += f"城市：{station['city']}\n"
             reply += f"接入线路：{'、'.join(station['lines'])}\n"
-            reply += f"车站ID：{station['id']}\n"
             if 'address' in station:
                 reply += f"地址：{station['address']}\n"
             if 'description' in station:
@@ -154,7 +153,7 @@ class StationSearcherPlugin(Star):
             cities[city].append(station["name"])
         
         # 构建回复
-        reply = "📋 **车站列表**\n\n"
+        reply = "车站列表\n\n"
         for city, station_list in cities.items():
             reply += f"🏙️ **{city}**\n"
             reply += f"   {'、'.join(station_list)}\n\n"
