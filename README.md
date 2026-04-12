@@ -1,0 +1,2 @@
+# astrbot_plugin_stationsearcher
+一个可查询本地数据库内车站信息的Astrbot插件
