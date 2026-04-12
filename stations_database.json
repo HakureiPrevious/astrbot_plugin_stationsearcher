@@ -1,0 +1,1601 @@
+{
+  "stations": [
+    {
+      "id": "station335",
+      "name": "科怡路",
+      "city": "北京",
+      "lines": ["9号线"],
+      "address": "北京市丰台区科怡路东侧，设有4出入口，紧邻怡海花园、宝隆湖和北京公交三公司怡海花园西门场站"
+    },
+    {
+      "id": "station1926",
+      "name": "呼兰路站",
+      "city": "上海",
+      "lines": ["地铁 18 号线"]
+    },
+    {
+      "id": "station1927",
+      "name": "康文路站",
+      "city": "上海",
+      "lines": ["地铁 18 号线"]
+    },
+    {
+      "id": "station1928",
+      "name": "沈杜公路站",
+      "city": "上海",
+      "lines": ["浦江线", "地铁 8 号线"]
+    },
+    {
+      "id": "station1929",
+      "name": "三鲁公路站",
+      "city": "上海",
+      "lines": ["浦江线"]
+    },
+    {
+      "id": "station1930",
+      "name": "闵瑞路站",
+      "city": "上海",
+      "lines": ["浦江线"]
+    },
+    {
+      "id": "station1931", 
+      "name": "浦航路站",
+      "city": "上海",
+      "lines": ["浦江线"]
+    },
+    {
+      "id": "station1932",
+      "name": "东城一路站",
+      "city": "上海",
+      "lines": ["浦江线"]
+    },
+    {
+      "id": "station1933",
+      "name": "汇臻路站",
+      "city": "上海",
+      "lines": ["浦江线"]
+    },
+    {
+      "id": "station1934",
+      "name": "龙阳路站",
+      "city": "上海",
+      "lines": ["磁浮线", "地铁 2 号线", "地铁 7 号线", "地铁 16 号线", "地铁 18 号线"]
+    },
+    {
+      "id": "station1935",
+      "name": "浦东1号2号航站楼站",
+      "city": "上海",
+      "lines": ["磁浮线", "地铁 2 号线"]
+    },
+    {
+      "id": "station002",
+      "name": "体育中心",
+      "city": "广州",
+      "lines": ["地铁1号线"]
+    },
+    {
+      "id": "station003",
+      "name": "体育西路",
+      "city": "广州",
+      "lines": ["地铁1号线", "地铁3号线"]
+    },
+    {
+      "id": "station004",
+      "name": "杨箕",
+      "city": "广州",
+      "lines": ["地铁1号线", "地铁5号线"]
+    },
+    {
+      "id": "station005",
+      "name": "东山口",
+      "city": "广州",
+      "lines": ["地铁1号线", "地铁6号线"]
+    },
+    {
+      "id": "station006",
+      "name": "烈士陵园",
+      "city": "广州",
+      "lines": ["地铁1号线"]
+    },
+    {
+      "id": "station007",
+      "name": "农讲所",
+      "city": "广州",
+      "lines": ["地铁1号线"]
+    },
+    {
+      "id": "station008",
+      "name": "公园前",
+      "city": "广州",
+      "lines": ["地铁1号线", "地铁2号线"]
+    },
+    {
+      "id": "station009",
+      "name": "西门口",
+      "city": "广州",
+      "lines": ["地铁1号线"]
+    },
+    {
+      "id": "station010",
+      "name": "陈家祠",
+      "city": "广州",
+      "lines": ["地铁1号线", "地铁8号线"]
+    },
+    {
+      "id": "station011",
+      "name": "长寿路",
+      "city": "广州",
+      "lines": ["地铁1号线"]
+    },
+    {
+      "id": "station012",
+      "name": "黄沙",
+      "city": "广州",
+      "lines": ["地铁1号线", "地铁6号线"]
+    },
+    {
+      "id": "station013",
+      "name": "芳村",
+      "city": "广州",
+      "lines": ["地铁1号线", "地铁11号线", "地铁22号线"]
+    },
+    {
+      "id": "station014",
+      "name": "花地湾",
+      "city": "广州",
+      "lines": ["地铁1号线"]
+    },
+    {
+      "id": "station015",
+      "name": "坑口",
+      "city": "广州",
+      "lines": ["地铁1号线"]
+    },
+    {
+      "id": "station016",
+      "name": "西塱",
+      "city": "广州",
+      "lines": ["地铁1号线", "地铁10号线"]
+    },
+    {
+      "id": "station017",
+      "name": "广州南站",
+      "city": "广州",
+      "lines": ["地铁2号线", "地铁7号线", "地铁22号线", "佛山2号线"]
+    },
+    {
+      "id": "station019",
+      "name": "会江",
+      "city": "广州",
+      "lines": ["地铁2号线"]
+    },
+    {
+      "id": "station020",
+      "name": "南浦",
+      "city": "广州",
+      "lines": ["地铁2号线"]
+    },
+    {
+      "id": "station021",
+      "name": "洛溪",
+      "city": "广州",
+      "lines": ["地铁2号线"]
+    },
+    {
+      "id": "station022",
+      "name": "南洲",
+      "city": "广州",
+      "lines": ["地铁2号线", "广佛线"]
+    },
+    {
+      "id": "station023",
+      "name": "东晓南",
+      "city": "广州",
+      "lines": ["地铁2号线", "地铁10号线"]
+    },
+    {
+      "id": "station024",
+      "name": "江泰路",
+      "city": "广州",
+      "lines": ["地铁2号线", "地铁11号线"]
+    },
+    {
+      "id": "station025",
+      "name": "昌岗",
+      "city": "广州",
+      "lines": ["地铁2号线", "地铁8号线"]
+    },
+    {
+      "id": "station026",
+      "name": "江南西",
+      "city": "广州",
+      "lines": ["地铁2号线"]
+    },
+    {
+      "id": "station027",
+      "name": "市二宫",
+      "city": "广州",
+      "lines": ["地铁2号线"]
+    },
+    {
+      "id": "station029",
+      "name": "广州火车站",
+      "city": "广州",
+      "lines": ["地铁2号线", "地铁5号线", "地铁14号线（未开通）", "地铁11号线"]
+    },
+    {
+      "id": "station030",
+      "name": "越秀公园",
+      "city": "广州",
+      "lines": ["地铁2号线"]
+    },
+    {
+      "id": "station031",
+      "name": "纪念堂",
+      "city": "广州",
+      "lines": ["地铁2号线"]
+    },
+    {
+      "id": "station034",
+      "name": "市二宫",
+      "city": "广州",
+      "lines": ["地铁2号线"]
+    },
+    {
+      "id": "station035",
+      "name": "江南西",
+      "city": "广州",
+      "lines": ["地铁2号线"]
+    },
+    {
+      "id": "station040",
+      "name": "洛溪",
+      "city": "广州",
+      "lines": ["地铁2号线"]
+    },
+    {
+      "id": "station041",
+      "name": "南浦",
+      "city": "广州",
+      "lines": ["地铁2号线"]
+    },
+    {
+      "id": "station042",
+      "name": "会江",
+      "city": "广州",
+      "lines": ["地铁2号线"]
+    },
+    {
+      "id": "station043",
+      "name": "石壁",
+      "city": "广州",
+      "lines": ["地铁2号线", "地铁7号线"]
+    },
+    {
+      "id": "station046",
+      "name": "浔峰岗北",
+      "city": "广州",
+      "lines": ["地铁12号线"]
+    },
+    {
+      "id": "station047",
+      "name": "西洲",
+      "city": "广州",
+      "lines": ["地铁12号线"]
+    },
+    {
+      "id": "station049",
+      "name": "广州白云站",
+      "city": "广州",
+      "lines": ["地铁12号线"]
+    },
+    {
+      "id": "station050",
+      "name": "棠涌",
+      "city": "广州",
+      "lines": ["地铁12号线"]
+    },
+    {
+      "id": "station051",
+      "name": "新市墟",
+      "city": "广州",
+      "lines": ["地铁12号线", "地铁14号线"]
+    },
+    {
+      "id": "station052",
+      "name": "白云文化广场",
+      "city": "广州",
+      "lines": ["地铁12号线", "地铁2号线"]
+    },
+    {
+      "id": "station053",
+      "name": "广州体育馆",
+      "city": "广州",
+      "lines": ["地铁12号线"]
+    },
+    {
+      "id": "station054",
+      "name": "景泰",
+      "city": "广州",
+      "lines": ["地铁12号线"]
+    },
+    {
+      "id": "station055",
+      "name": "柯子岭",
+      "city": "广州",
+      "lines": ["地铁12号线"]
+    },
+    {
+      "id": "station056",
+      "name": "中医药大学",
+      "city": "广州",
+      "lines": ["地铁11号线","地铁12号线"]
+    },
+    {
+      "id": "station057",
+      "name": "麓湖",
+      "city": "广州",
+      "lines": ["地铁12号线"]
+    },
+    {
+      "id": "station058",
+      "name": "建设六马路",
+      "city": "广州",
+      "lines": ["地铁12号线"]
+    },
+    {
+      "id": "station059",
+      "name": "烈士陵园",
+      "city": "广州",
+      "lines": ["地铁12号线", "地铁1号线"]
+    },
+    {
+      "id": "station060",
+      "name": "东湖",
+      "city": "广州",
+      "lines": ["地铁6号线","地铁12号线"]
+    },
+    {
+      "id": "station061",
+      "name": "二沙岛",
+      "city": "广州",
+      "lines": ["地铁12号线"]
+    },
+    {
+      "id": "station062",
+      "name": "赤岗塔",
+      "city": "广州",
+      "lines": ["地铁12号线"]
+    },
+    {
+      "id": "station063",
+      "name": "赤岗",
+      "city": "广州",
+      "lines": ["地铁8号线","地铁12号线"]
+    },
+    {
+      "id": "station064",
+      "name": "赤沙北",
+      "city": "广州",
+      "lines": ["地铁12号线"]
+    },
+    {
+      "id": "station066",
+      "name": "北山",
+      "city": "广州",
+      "lines": ["地铁12号线"]
+    },
+    {
+      "id": "station071",
+      "name": "棠下",
+      "city": "广州",
+      "lines": ["地铁13号线"]
+    },
+    {
+      "id": "station073",
+      "name": "天河珠村",
+      "city": "广州",
+      "lines": ["地铁13号线"]
+    },
+    {
+      "id": "station074",
+      "name": "乐嘉路",
+      "city": "广州",
+      "lines": ["地铁14号线"]
+    },
+    {
+      "id": "station075",
+      "name": "云霄路",
+      "city": "广州",
+      "lines": ["地铁14号线"]
+    },
+    {
+      "id": "station076",
+      "name": "马务",
+      "city": "广州",
+      "lines": ["地铁14号线"]
+    },
+    {
+      "id": "station077",
+      "name": "鹤边",
+      "city": "广州",
+      "lines": ["地铁14号线"]
+    },
+    {
+      "id": "station078",
+      "name": "鹤龙",
+      "city": "广州",
+      "lines": ["地铁14号线"]
+    },
+    {
+      "id": "station079",
+      "name": "彭边",
+      "city": "广州",
+      "lines": ["地铁14号线"]
+    },
+    {
+      "id": "station080",
+      "name": "天河客运站",
+      "city": "广州",
+      "lines": ["地铁3号线","地铁6号线"]
+    },
+    {
+      "id": "station081",
+      "name": "五山",
+      "city": "广州",
+      "lines": ["地铁3号线"]
+    },
+    {
+      "id": "station082",
+      "name": "华师",
+      "city": "广州",
+      "lines": ["地铁3号线","地铁11号线"]
+    },
+    {
+      "id": "station083",
+      "name": "岗顶",
+      "city": "广州",
+      "lines": ["地铁3号线"]
+    },
+    {
+      "id": "station084",
+      "name": "石牌桥",
+      "city": "广州",
+      "lines": ["地铁3号线"]
+    },
+    {
+      "id": "station086",
+      "name": "珠江新城",
+      "city": "广州",
+      "lines": ["地铁3号线","地铁5号线"]
+    },
+    {
+      "id": "station090",
+      "name": "沥滘",
+      "city": "广州",
+      "lines": ["地铁3号线","地铁广佛线"]
+    },
+    {
+      "id": "station091",
+      "name": "厦滘",
+      "city": "广州",
+      "lines": ["地铁3号线"]
+    },
+    {
+      "id": "station092",
+      "name": "大石",
+      "city": "广州",
+      "lines": ["地铁3号线"]
+    },
+    {
+      "id": "station093",
+      "name": "汉溪长隆",
+      "city": "广州",
+      "lines": ["地铁3号线", "地铁7号线"]
+    },
+    {
+      "id": "station094",
+      "name": "市桥",
+      "city": "广州",
+      "lines": ["地铁3号线"]
+    },
+    {
+      "id": "station095",
+      "name": "番禺广场",
+      "city": "广州",
+      "lines": ["地铁3号线", "地铁18号线", "地铁22号线"]
+    },
+    {
+      "id": "station096",
+      "name": "机场北",
+      "city": "广州",
+      "lines": ["地铁3号线北延段"]
+    },
+    {
+      "id": "station097",
+      "name": "机场南",
+      "city": "广州",
+      "lines": ["地铁3号线北延段"]
+    },
+    {
+      "id": "station098",
+      "name": "高增",
+      "city": "广州",
+      "lines": ["地铁3号线北延段", "地铁9号线"]
+    },
+    {
+      "id": "station099",
+      "name": "人和",
+      "city": "广州",
+      "lines": ["地铁3号线北延段"]
+    },
+    {
+      "id": "station100",
+      "name": "龙归",
+      "city": "广州",
+      "lines": ["地铁3号线北延段"]
+    },
+    {
+      "id": "station101",
+      "name": "嘉禾望岗",
+      "city": "广州",
+      "lines": ["地铁3号线北延段", "地铁2号线", "地铁14号线"]
+    },
+    {
+      "id": "station102",
+      "name": "白云大道北",
+      "city": "广州",
+      "lines": ["地铁3号线北延段"]
+    },
+    {
+      "id": "station103",
+      "name": "永泰",
+      "city": "广州",
+      "lines": ["地铁3号线北延段"]
+    },
+    {
+      "id": "station104",
+      "name": "同和",
+      "city": "广州",
+      "lines": ["地铁3号线北延段"]
+    },
+    {
+      "id": "station105",
+      "name": "京溪南方医院",
+      "city": "广州",
+      "lines": ["地铁3号线北延段"]
+    },
+    {
+      "id": "station106",
+      "name": "梅花园",
+      "city": "广州",
+      "lines": ["地铁3号线北延段"]
+    },
+    {
+      "id": "station110",
+      "name": "黄村",
+      "city": "广州",
+      "lines": ["地铁4号线","地铁21号线"]
+    },
+    {
+      "id": "station111",
+      "name": "车陂",
+      "city": "广州",
+      "lines": ["地铁4号线","地铁13号线"]
+    },
+    {
+      "id": "station112",
+      "name": "车陂南",
+      "city": "广州",
+      "lines": ["地铁4号线", "地铁5号线"]
+    },
+    {
+      "id": "station113",
+      "name": "万胜围",
+      "city": "广州",
+      "lines": ["地铁4号线", "地铁8号线"]
+    },
+    {
+      "id": "station114",
+      "name": "官洲",
+      "city": "广州",
+      "lines": ["地铁4号线","地铁12号线"]
+    },
+    {
+      "id": "station115",
+      "name": "大学城北",
+      "city": "广州",
+      "lines": ["地铁4号线","地铁12号线"]
+    },
+    {
+      "id": "station116",
+      "name": "大学城南",
+      "city": "广州",
+      "lines": ["地铁4号线", "地铁7号线","地铁12号线"]
+    },
+    {
+      "id": "station117",
+      "name": "新造",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station118",
+      "name": "官桥（未开通）",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station119",
+      "name": "石碁",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station120",
+      "name": "海傍",
+      "city": "广州",
+      "lines": ["地铁4号线","地铁3号线"]
+    },
+    {
+      "id": "station121",
+      "name": "低涌",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station122",
+      "name": "东涌",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station123",
+      "name": "庆盛（南沙北站）",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station124",
+      "name": "黄阁汽车城",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station125",
+      "name": "黄阁",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station126",
+      "name": "蕉门",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station127",
+      "name": "金洲",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station128",
+      "name": "飞沙角",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station129",
+      "name": "广隆",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station130",
+      "name": "大涌",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station131",
+      "name": "塘坑",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station132",
+      "name": "南横",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station133",
+      "name": "南沙客运港",
+      "city": "广州",
+      "lines": ["地铁4号线"]
+    },
+    {
+      "id": "station134",
+      "name": "滘口",
+      "city": "广州",
+      "lines": ["地铁5号线"]
+    },
+    {
+      "id": "station135",
+      "name": "坦尾",
+      "city": "广州",
+      "lines": ["地铁5号线","地铁6号线"]
+    },
+    {
+      "id": "station136",
+      "name": "中山八",
+      "city": "广州",
+      "lines": ["地铁5号线","地铁11号线"]
+    },
+    {
+      "id": "station137",
+      "name": "西场",
+      "city": "广州",
+      "lines": ["地铁5号线"]
+    },
+    {
+      "id": "station138",
+      "name": "西村",
+      "city": "广州",
+      "lines": ["地铁5号线", "地铁8号线"]
+    },
+    {
+      "id": "station140",
+      "name": "小北",
+      "city": "广州",
+      "lines": ["地铁5号线"]
+    },
+    {
+      "id": "station141",
+      "name": "淘金",
+      "city": "广州",
+      "lines": ["地铁5号线"]
+    },
+    {
+      "id": "station142",
+      "name": "区庄",
+      "city": "广州",
+      "lines": ["地铁5号线","地铁6号线"]
+    },
+    {
+      "id": "station143",
+      "name": "动物园",
+      "city": "广州",
+      "lines": ["地铁5号线"]
+    },
+    {
+      "id": "station145",
+      "name": "五羊邨",
+      "city": "广州",
+      "lines": ["地铁5号线","地铁10号线"]
+    },
+    {
+      "id": "station147",
+      "name": "猎德",
+      "city": "广州",
+      "lines": ["地铁5号线"]
+    },
+    {
+      "id": "station148",
+      "name": "潭村",
+      "city": "广州",
+      "lines": ["地铁5号线"]
+    },
+    {
+      "id": "station149",
+      "name": "员村",
+      "city": "广州",
+      "lines": ["地铁5号线","地铁11号线"]
+    },
+    {
+      "id": "station150",
+      "name": "科韵路",
+      "city": "广州",
+      "lines": ["地铁5号线"]
+    },
+    {
+      "id": "station152",
+      "name": "东圃",
+      "city": "广州",
+      "lines": ["地铁5号线"]
+    },
+    {
+      "id": "station153",
+      "name": "三溪",
+      "city": "广州",
+      "lines": ["地铁5号线"]
+    },
+    {
+      "id": "station154",
+      "name": "鱼珠",
+      "city": "广州",
+      "lines": ["地铁5号线","地铁13号线"]
+    },
+    {
+      "id": "station155",
+      "name": "大沙地",
+      "city": "广州",
+      "lines": ["地铁5号线"]
+    },
+    {
+      "id": "station156",
+      "name": "大沙东",
+      "city": "广州",
+      "lines": ["地铁5号线","地铁7号线"]
+    },
+    {
+      "id": "station157",
+      "name": "文冲",
+      "city": "广州",
+      "lines": ["地铁5号线"]
+    },
+    {
+      "id": "station158",
+      "name": "浔峰岗",
+      "city": "广州",
+      "lines": ["地铁6号线","地铁12号线"]
+    },
+    {
+      "id": "station159",
+      "name": "横沙",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station160",
+      "name": "沙贝",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station161",
+      "name": "河沙",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station163",
+      "name": "如意坊",
+      "city": "广州",
+      "lines": ["地铁6号线","地铁11号线"]
+    },
+    {
+      "id": "station165",
+      "name": "文化公园",
+      "city": "广州",
+      "lines": ["地铁6号线","地铁8号线"]
+    },
+    {
+      "id": "station166",
+      "name": "一德路",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station167",
+      "name": "海珠广场",
+      "city": "广州",
+      "lines": ["地铁2号线", "地铁6号线"]
+    },
+    {
+      "id": "station168",
+      "name": "北京路",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station169",
+      "name": "团一大广场",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station170",
+      "name": "东湖",
+      "city": "广州",
+      "lines": ["地铁6号线","地铁10号线"]
+    },
+    {
+      "id": "station173",
+      "name": "黄花岗",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station174",
+      "name": "沙河顶",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station175",
+      "name": "沙河",
+      "city": "广州",
+      "lines": ["地铁6号线","地铁11号线"]
+    },
+    {
+      "id": "station176",
+      "name": "天平架",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station177",
+      "name": "燕塘",
+      "city": "广州",
+      "lines": ["地铁6号线", "地铁3号线北延段"]
+    },
+    {
+      "id": "station179",
+      "name": "长湴",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station180",
+      "name": "植物园",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station181",
+      "name": "龙洞",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station182",
+      "name": "柯木塱",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station183",
+      "name": "高塘石",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station184",
+      "name": "黄陂",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station185",
+      "name": "金峰",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station186",
+      "name": "暹岗",
+      "city": "广州",
+      "lines": ["地铁6号线"]
+    },
+    {
+      "id": "station187",
+      "name": "苏元",
+      "city": "广州",
+      "lines": ["地铁6号线","地铁21号线"]
+    },
+    {
+      "id": "station188",
+      "name": "萝岗",
+      "city": "广州",
+      "lines": ["地铁6号线","地铁7号线"]
+    },
+    {
+      "id": "station189",
+      "name": "香雪",
+      "city": "广州",
+      "lines": ["地铁6号线","黄埔有轨电车1号线","黄埔有轨电车2号线"]
+    },
+    {
+      "id": "station192",
+      "name": "谢村",
+      "city": "广州",
+      "lines": ["地铁7号线"]
+    },
+    {
+      "id": "station193",
+      "name": "钟村",
+      "city": "广州",
+      "lines": ["地铁7号线"]
+    },
+    {
+      "id": "station195",
+      "name": "南村万博",
+      "city": "广州",
+      "lines": ["地铁7号线", "地铁18号线"]
+    },
+    {
+      "id": "station196",
+      "name": "员岗",
+      "city": "广州",
+      "lines": ["地铁7号线"]
+    },
+    {
+      "id": "station197",
+      "name": "板桥",
+      "city": "广州",
+      "lines": ["地铁7号线"]
+    },
+    {
+      "id": "station199",
+      "name": "美的大道",
+      "city": "广州",
+      "lines": ["地铁7号线"]
+    },
+    {
+      "id": "station200",
+      "name": "北滘公园",
+      "city": "广州",
+      "lines": ["地铁7号线","佛山地铁3号线"]
+    },
+    {
+      "id": "station201",
+      "name": "美的",
+      "city": "广州",
+      "lines": ["地铁7号线"]
+    },
+    {
+      "id": "station202",
+      "name": "南涌",
+      "city": "广州",
+      "lines": ["地铁7号线"]
+    },
+    {
+      "id": "station203",
+      "name": "锦龙",
+      "city": "广州",
+      "lines": ["地铁7号线"]
+    },
+    {
+      "id": "station204",
+      "name": "陈村",
+      "city": "广州",
+      "lines": ["地铁7号线"]
+    },
+    {
+      "id": "station205",
+      "name": "陈村北",
+      "city": "广州",
+      "lines": ["地铁7号线"]
+    },
+    {
+      "id": "station206",
+      "name": "大洲",
+      "city": "广州",
+      "lines": ["地铁7号线"]
+    },
+    {
+      "id": "station207",
+      "name": "滘心",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station208",
+      "name": "亭岗",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station209",
+      "name": "石井",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station210",
+      "name": "小坪",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station211",
+      "name": "石潭",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station212",
+      "name": "聚龙",
+      "city": "广州",
+      "lines": ["地铁8号线","地铁12号线"]
+    },
+    {
+      "id": "station213",
+      "name": "上步",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station214",
+      "name": "同德",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station215",
+      "name": "鹅掌坦",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station217",
+      "name": "彩虹桥",
+      "city": "广州",
+      "lines": ["地铁8号线","地铁11号线"]
+    },
+    {
+      "id": "station219",
+      "name": "华林寺",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station221",
+      "name": "同福西",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station222",
+      "name": "凤凰新村",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station223",
+      "name": "沙园",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station224",
+      "name": "宝岗大道",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station226",
+      "name": "晓港",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station227",
+      "name": "中大",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station228",
+      "name": "鹭江",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station231",
+      "name": "磨碟沙",
+      "city": "广州",
+      "lines": ["地铁8号线", "地铁18号线"]
+    },
+    {
+      "id": "station232",
+      "name": "新港东",
+      "city": "广州",
+      "lines": ["地铁8号线"]
+    },
+    {
+      "id": "station233",
+      "name": "琶洲",
+      "city": "广州",
+      "lines": ["地铁8号线","地铁11号线"]
+    },
+    {
+      "id": "station235",
+      "name": "飞鹅岭",
+      "city": "广州",
+      "lines": ["地铁9号线"]
+    },
+    {
+      "id": "station236",
+      "name": "花都汽车城",
+      "city": "广州",
+      "lines": ["地铁9号线"]
+    },
+    {
+      "id": "station237",
+      "name": "广州北站",
+      "city": "广州",
+      "lines": ["地铁9号线"]
+    },
+    {
+      "id": "station238",
+      "name": "花城路",
+      "city": "广州",
+      "lines": ["地铁9号线"]
+    },
+    {
+      "id": "station239",
+      "name": "花果山公园",
+      "city": "广州",
+      "lines": ["地铁9号线"]
+    },
+    {
+      "id": "station240",
+      "name": "花都广场",
+      "city": "广州",
+      "lines": ["地铁9号线"]
+    },
+    {
+      "id": "station241",
+      "name": "马鞍山公园",
+      "city": "广州",
+      "lines": ["地铁9号线"]
+    },
+    {
+      "id": "station242",
+      "name": "莲塘",
+      "city": "广州",
+      "lines": ["地铁9号线"]
+    },
+    {
+      "id": "station243",
+      "name": "清布",
+      "city": "广州",
+      "lines": ["地铁9号线"]
+    },
+    {
+      "id": "station244",
+      "name": "清塘",
+      "city": "广州",
+      "lines": ["地铁9号线"]
+    },
+    {
+      "id": "station247",
+      "name": "花围",
+      "city": "广州",
+      "lines": ["地铁10号线"]
+    },
+    {
+      "id": "station248",
+      "name": "东沙",
+      "city": "广州",
+      "lines": ["地铁10号线"]
+    },
+    {
+      "id": "station249",
+      "name": "大干围",
+      "city": "广州",
+      "lines": ["地铁10号线"]
+    },
+    {
+      "id": "station250",
+      "name": "工业大道南",
+      "city": "广州",
+      "lines": ["地铁10号线"]
+    },
+    {
+      "id": "station252",
+      "name": "五凤",
+      "city": "广州",
+      "lines": ["地铁10号线"]
+    },
+    {
+      "id": "station253",
+      "name": "中大南门",
+      "city": "广州",
+      "lines": ["地铁10号线"]
+    },
+    {
+      "id": "station254",
+      "name": "滨江东路",
+      "city": "广州",
+      "lines": ["地铁10号线"]
+    },
+    {
+      "id": "station257",
+      "name": "杨箕东",
+      "city": "广州",
+      "lines": ["地铁10号线"]
+    },
+    {
+      "id": "station259",
+      "name": "流花",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station263",
+      "name": "石围塘",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station265",
+      "name": "大冲口",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station266",
+      "name": "沙涌",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station267",
+      "name": "鹤洞东",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station268",
+      "name": "棣园",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station269",
+      "name": "燕岗",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station271",
+      "name": "五凤",
+      "city": "广州",
+      "lines": ["地铁10号线", "地铁11号线"]
+    },
+    {
+      "id": "station272",
+      "name": "逸景路",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station273",
+      "name": "上涌",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station279",
+      "name": "天河公园",
+      "city": "广州",
+      "lines": ["地铁11号线", "地铁21号线", "地铁13号线"]
+    },
+    {
+      "id": "station280",
+      "name": "华景路",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station282",
+      "name": "龙口西",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station286",
+      "name": "云台花园",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station287",
+      "name": "大金钟路",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station289",
+      "name": "梓元岗",
+      "city": "广州",
+      "lines": ["地铁11号线"]
+    },
+    {
+      "id": "station290",
+      "name": "冼村",
+      "city": "广州",
+      "lines": ["地铁18号线"]
+    },
+    {
+      "id": "station293",
+      "name": "沙溪",
+      "city": "广州",
+      "lines": ["地铁18号线"]
+    },
+    {
+      "id": "station296",
+      "name": "横沥",
+      "city": "广州",
+      "lines": ["地铁18号线"]
+    },
+    {
+      "id": "station297",
+      "name": "万顷沙",
+      "city": "广州",
+      "lines": ["地铁18号线"]
+    },
+    {
+      "id": "station299",
+      "name": "市广路",
+      "city": "广州",
+      "lines": ["地铁22号线"]
+    },
+    {
+      "id": "station301",
+      "name": "陈头岗",
+      "city": "广州",
+      "lines": ["地铁22号线"]
+    },
+    {
+      "id": "station302",
+      "name": "南浦西",
+      "city": "广州",
+      "lines": ["地铁22号线"]
+    },
+    {
+      "id": "station303",
+      "name": "南漖",
+      "city": "广州",
+      "lines": ["地铁22号线"]
+    },
+    {
+      "id": "station307",
+      "name": "棠东",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station309",
+      "name": "大观南路",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station310",
+      "name": "天河智慧城",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station311",
+      "name": "神舟路",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station312",
+      "name": "科学城",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station314",
+      "name": "水西",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station315",
+      "name": "长平",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station316",
+      "name": "金坑",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station317",
+      "name": "镇龙西",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station318",
+      "name": "镇龙",
+      "city": "广州",
+      "lines": ["地铁21号线", "地铁14号线"]
+    },
+    {
+      "id": "station319",
+      "name": "中新",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station320",
+      "name": "坑贝",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station321",
+      "name": "凤岗",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station322",
+      "name": "朱村",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station323",
+      "name": "山田",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station324",
+      "name": "钟岗",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station325",
+      "name": "增城广场",
+      "city": "广州",
+      "lines": ["地铁21号线"]
+    },
+    {
+      "id": "station327",
+      "name": "海心沙",
+      "city": "广州",
+      "lines": ["APM线"]
+    },
+    {
+      "id": "station328",
+      "name": "大剧院",
+      "city": "广州",
+      "lines": ["APM线"]
+    },
+    {
+      "id": "station329",
+      "name": "花城大道",
+      "city": "广州",
+      "lines": ["APM线"]
+    },
+    {
+      "id": "station330",
+      "name": "妇儿中心",
+      "city": "广州",
+      "lines": ["APM线"]
+    },
+    {
+      "id": "station331",
+      "name": "黄埔大道",
+      "city": "广州",
+      "lines": ["APM线"]
+    },
+    {
+      "id": "station332",
+      "name": "天河南",
+      "city": "广州",
+      "lines": ["APM线"]
+    },
+    {
+      "id": "station333",
+      "name": "体育中心南",
+      "city": "广州",
+      "lines": ["APM线"]
+    }
+  ]
+}

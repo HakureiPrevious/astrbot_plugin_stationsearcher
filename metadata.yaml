@@ -1,0 +1,6 @@
+name: "车站查询插件"
+desc: "通过输入车站名称查询车站信息及其接入线路"
+author: "SS8-0143"
+version: "1.0.0"
+display_name: "车站查询插件"
+description: "通过输入车站名称查询车站信息及其接入线路"
