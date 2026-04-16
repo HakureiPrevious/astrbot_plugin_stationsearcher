@@ -75,10 +75,14 @@ class StationSearcherPlugin(Star):
         
         # 构建回复消息
         reply = f"找到 {len(results)} 个匹配的车站：\n\n"
+        reply = f"如果无线路，大概率为国铁车站\n"
         for station in results:
-            reply += f"{station['name']}\n"
-            reply += f"城市：{station['city']}\n"
-            reply += f"接入线路：{'、'.join(station['lines'])}\n"
+            if 'name' in station:
+                reply += f"车站名称：{station['name']}\n"
+            if 'city' in station:
+                reply += f"城市：{station['city']}\n"
+            if 'lines' in station:
+                reply += f"接入线路：{'、'.join(station['lines'])}\n"
             if 'address' in station:
                 reply += f"地址：{station['address']}\n"
             if 'description' in station:
